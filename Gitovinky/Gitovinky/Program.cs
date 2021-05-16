@@ -11,9 +11,7 @@ namespace Gitovinky
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-            Console.WriteLine("Prva zmena súboru");
-            Console.WriteLine("Pre tretiu vetev");
-            Console.WriteLine("Zmena pre repo na nettt");
+            
         }
     }
 }
