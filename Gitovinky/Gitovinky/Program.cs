@@ -11,13 +11,13 @@ namespace Gitovinky
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-<<<<<<< HEAD
+
             Console.WriteLine("druha vetev");
-=======
+
             Console.WriteLine("Prva zmena súboru");
             Console.WriteLine("Pre tretiu vetev");
             Console.WriteLine("Idem mergnut tretiu do master");
->>>>>>> tretia
+
         }
     }
 }
