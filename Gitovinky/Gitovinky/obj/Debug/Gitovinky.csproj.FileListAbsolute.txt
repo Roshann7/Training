@@ -1,0 +1,7 @@
+C:\Users\Daniel\source\repos\Gitovinky\Gitovinky\bin\Debug\Gitovinky.exe.config
+C:\Users\Daniel\source\repos\Gitovinky\Gitovinky\bin\Debug\Gitovinky.exe
+C:\Users\Daniel\source\repos\Gitovinky\Gitovinky\bin\Debug\Gitovinky.pdb
+C:\Users\Daniel\source\repos\Gitovinky\Gitovinky\obj\Debug\Gitovinky.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Gitovinky\Gitovinky\obj\Debug\Gitovinky.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Gitovinky\Gitovinky\obj\Debug\Gitovinky.exe
+C:\Users\Daniel\source\repos\Gitovinky\Gitovinky\obj\Debug\Gitovinky.pdb
