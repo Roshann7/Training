@@ -12,6 +12,7 @@ namespace Gitovinky
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Prva zmena súboru");
+            Console.WriteLine("Pre tretiu vetev");
         }
     }
 }
